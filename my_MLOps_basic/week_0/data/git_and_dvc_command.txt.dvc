@@ -1,0 +1,5 @@
+outs:
+- md5: d9161f43b511e6214c270b44f10ea5c9
+  size: 35
+  hash: md5
+  path: git_and_dvc_command.txt
